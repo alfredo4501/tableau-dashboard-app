@@ -11,5 +11,5 @@ client/build/
 # Logs
 *.log
 
-# IDE Files
+# VS Code settings
 .vscode/
